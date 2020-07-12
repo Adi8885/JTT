@@ -11,7 +11,7 @@ Different approaches and summary of results is as below :- <br />
 
 
 # Observations
-1. This Problem has class imbalance with negative (63%) , neutral (21%) and positive (16%)
+1. This Problem has class imbalance with negative (63%) , neutral (21%) and positive (16%) <br />
  , 2. Hence chosen metric for comparison is f1_score
 3. Based on f1_score - (Bag of words + XGBoost Classifier) and (Classifier using LSTM) perform well
 4. If add accuracy as well Bag of words + XGBoost Classifier is clear winner
