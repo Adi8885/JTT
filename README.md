@@ -1,4 +1,4 @@
-# JTT
+# JTT Assignment
 This Repository contains various notebooks for 'Sentiment Analysis'<br />
 Different approaches and summary of results is as below :- <br />
 1. Bag of words + XGBoost Classifier
@@ -16,16 +16,12 @@ Different approaches and summary of results is as below :- <br />
 
 # 1. Bag of words + XGBoost Classifier
               precision    recall  f1-score   support
-
            0       0.77      0.92      0.84      1834
            1       0.65      0.35      0.45       628
            2       0.69      0.60      0.64       466
-
     accuracy                           0.75      2928
-   macro avg       0.70      0.62      0.64      2928
-weighted avg       0.73      0.75      0.73      2928
-
-accuracy : 0.7472677595628415
+    macro avg      0.70      0.62      0.64      2928
+    weighted avg   0.73      0.75      0.73      2928
 
 # 2. Doc2vec + Neural Network
               precision    recall  f1-score   support
@@ -35,10 +31,8 @@ accuracy : 0.7472677595628415
            2       0.00      0.00      0.00       236
 
     accuracy                           0.62      1464
-   macro avg       0.28      0.33      0.26      1464
-weighted avg       0.44      0.62      0.48      1464
-
-accuracy : 0.6222677595628415
+    macro avg      0.28      0.33      0.26      1464
+    weighted avg   0.44      0.62      0.48      1464
 
 # 3. Classifier using LSTM 
               precision    recall  f1-score   support
@@ -48,10 +42,9 @@ accuracy : 0.6222677595628415
            2       0.67      0.44      0.54       236
 
     accuracy                           0.74      1464
-   macro avg       0.68      0.64      0.65      1464
-weighted avg       0.74      0.74      0.73      1464
-
-accuracy : 0.735655737704918
+    macro avg      0.68      0.64      0.65      1464
+    weighted avg   0.74      0.74      0.73      1464
+   
 
 # 4. Transfer Learning Classifier using BERT
               precision    recall  f1-score   support
@@ -61,7 +54,6 @@ accuracy : 0.735655737704918
            2       0.15      0.14      0.15       236
 
     accuracy                           0.49      1464
-   macro avg       0.33      0.33      0.33      1464
-weighted avg       0.47      0.49      0.48      1464
-
-accuracy : 0.4870218579234973
+    macro avg      0.33      0.33      0.33      1464
+    weighted avg   0.47      0.49      0.48      1464
+   
