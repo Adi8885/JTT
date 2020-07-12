@@ -1,4 +1,4 @@
-# JTT Assignment
+# JTT Assignment - Result Summary
 This Repository contains various notebooks for 'Sentiment Analysis'<br />
 Different approaches and summary of results is as below :- <br />
 1. Bag of words + XGBoost Classifier
@@ -6,7 +6,6 @@ Different approaches and summary of results is as below :- <br />
 3. Classifier using LSTM 
 4. Transfer Learning Classifier using BERT
 
-# RESULT SUMMARY
 
 # Observations
 1. This Problem has class imbalance with negative ()
