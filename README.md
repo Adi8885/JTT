@@ -1,5 +1,8 @@
 # JTT Assignment - Result Summary
-This Repository contains various notebooks for 'Sentiment Analysis'<br />
+- Case Study Chosen - 'Sentiment Analysis'
+- This Repository contains various notebooks for 'Sentiment Analysis'<br />
+- Different approaches have been tried for the same problem in order of increasing model complexities
+
 Different approaches and summary of results is as below :- <br />
 1. Bag of words + XGBoost Classifier
 2. Doc2vec + Neural Network
