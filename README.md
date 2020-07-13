@@ -62,3 +62,4 @@ Different approaches and summary of results is as below :- <br />
 # Way Forward
 1. Hyperparameter optimization for LSTM Model will Increase metrics
 2. Adding more data will definately help improving metrics, especially for Deep Learning Models
+3. BERT is trained on Wikipedia Corpus, Either it could be retrained on twitter corpus of fine tuned
