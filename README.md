@@ -60,7 +60,7 @@ Different approaches and summary of results is as below :- <br />
     weighted avg   0.47      0.49      0.48      1464
    
 # Way Forward
-1. SInce number of classes are less, we aacan also try "One Vs rest" Classificataion
+1. Since number of classes are less, we can also try "One Vs rest" Classificataion
 2. Hyperparameter optimization for LSTM Model will Increase metrics
 3. Adding more data will definately help improving metrics, especially for Deep Learning Models
 4. BERT is trained on Wikipedia Corpus, Either it could be retrained on twitter corpus of fine tuned
