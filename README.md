@@ -60,7 +60,8 @@ Different approaches and summary of results is as below :- <br />
     weighted avg   0.47      0.49      0.48      1464
    
 # Way Forward
-1. Hyperparameter optimization for LSTM Model will Increase metrics
-2. Adding more data will definately help improving metrics, especially for Deep Learning Models
-3. BERT is trained on Wikipedia Corpus, Either it could be retrained on twitter corpus of fine tuned
-4. For Doc2Vec , round trip accuracy can be used for better tuning and hence getting better quality embeddings
+1. SInce number of classes are less, we aacan also try "One Vs rest" Classificataion
+2. Hyperparameter optimization for LSTM Model will Increase metrics
+3. Adding more data will definately help improving metrics, especially for Deep Learning Models
+4. BERT is trained on Wikipedia Corpus, Either it could be retrained on twitter corpus of fine tuned
+5. For Doc2Vec , round trip accuracy can be used for better tuning and hence getting better quality embeddings
